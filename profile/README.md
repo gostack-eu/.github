@@ -3,7 +3,7 @@
 ## **Your Partner in Technology, Innovation & Success**
 <div align="center">
   
-[![GOStack]([https://gostack.eu/static/media/logo.bfd0aab1.png](https://gostack.eu/)?style=centerme)](https://gostack.eu)
+[![GOStack]([https://gostack.eu/static/media/logo.bfd0aab1.png?style=centerme)]](https://gostack.eu)
 
 </div>
 
