@@ -1,4 +1,6 @@
-# 👋 Welcome to GOStack
+<p align="center">
+  <h1>👋 Welcome to GOStack</h1>
+</p>
 
 <p align="center">
   <a href="https://gostack.eu" target="_blank">
@@ -10,7 +12,7 @@
 
 ---
 
-<p align="center"><strong>💡 Who are we?</strong></p>
+### 💡 Who are we?
 
 GOStack is a leading software solutions and engineering services provider. We architect high-performance systems that drive operational efficiency and revenue growth — empowering businesses to outpace competition with confidence.
 
@@ -18,7 +20,7 @@ As an official AWS Partner with certified expertise across Kubernetes, Argo CD, 
 
 ---
 
-<p align="center"><strong>🧑‍💻 What are we doing?</strong></p>
+### 🧑‍💻 What are we doing?
 
 We offer full-stack engineering and cloud services:
 
@@ -35,7 +37,7 @@ We offer full-stack engineering and cloud services:
 
 ---
 
-<p align="center"><strong>🤝 Why Choose GOStack?</strong></p>
+### 🤝 Why Choose GOStack?
 
 - **Innovation-first** — we embrace emerging technologies and solve complex challenges creatively.  
 - **Client-centric collaboration** — we align our solutions to your goals through transparent and close teamwork.  
@@ -44,7 +46,7 @@ We offer full-stack engineering and cloud services:
 
 ---
 
-<p align="center"><strong>📣 What You’ll Get</strong></p>
+### 📣 What You’ll Get
 
 - Streamlined, secure cloud infrastructure & software  
 - Faster release cycles via automated CI/CD & GitOps  
@@ -54,6 +56,4 @@ We offer full-stack engineering and cloud services:
 
 ---
 
-<p align="center"><strong>❓ Get in touch with us?</strong></p>
-
-Explore our updates, blog, and careers at [gostack.eu](https://gostack.eu)
+<p align="center"><strong>❓ Explore our updates, blog, and careers at <a href="https://gostack.eu">gostack.eu</a></strong></p>
