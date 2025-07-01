@@ -3,7 +3,9 @@
 ## **Your Partner in Technology, Innovation & Success**
 <div align="center">
   
-[![GOStack](https://gostack.eu/wp-content/themes/gostack/assets/images/logo.svg)](https://gostack.eu)
+<a href="https://gostack.eu" target="_blank">
+  <img src="https://gostack.eu/wp-content/themes/gostack/assets/images/logo.svg" alt="GOStack Logo" width="220"/>
+</a>
 
 </div>
 
