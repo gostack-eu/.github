@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>👋 Welcome to GOStack</h1>
-</p>
+<h1 align="center">👋 Welcome to GOStack</h1>
 
 <p align="center">
   <a href="https://gostack.eu" target="_blank">
