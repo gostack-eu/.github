@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center"><strong>Your Partner in Technology, Innovation & Success</strong></p>
+<p align="center"><strong>Your platform, engineered! Fully managed. Zero hassle. Always on.</strong></p>
 
 ---
 
